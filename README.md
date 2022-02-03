@@ -1,2 +1,2 @@
-# Trading-Algo
-Trading with Zerodha API
+# trading-algo
+trading using the zerodha api
